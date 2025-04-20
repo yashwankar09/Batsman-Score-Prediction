@@ -1,0 +1,37 @@
+batsman,bowler,batting_team,bowling_team,venue,strike_rate,average,is_batting_first
+Rohit Sharma,Andre Russell,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,129.13,30.41,1
+Rohit Sharma,Sunil Narine,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,129.13,30.41,1
+Rohit Sharma,Varun Chakravarthy,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,129.13,30.41,1
+Rohit Sharma,Umesh Yadav,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,129.13,30.41,1
+Suryakumar Yadav,Andre Russell,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,145.67,34.56,1
+Suryakumar Yadav,Sunil Narine,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,145.67,34.56,1
+Suryakumar Yadav,Varun Chakravarthy,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,145.67,34.56,1
+Suryakumar Yadav,Umesh Yadav,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,145.67,34.56,1
+Tilak Varma,Andre Russell,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,123.27,25.89,1
+Tilak Varma,Sunil Narine,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,123.27,25.89,1
+Tilak Varma,Varun Chakravarthy,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,123.27,25.89,1
+Tilak Varma,Umesh Yadav,Mumbai Indians,Kolkata Knight Riders, Ahmedabad,123.27,25.89,1
+Brendan McCullum,Kieron Pollard,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,131.27,21.56,0
+Brendan McCullum,Jasprit Bumrah,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,131.27,21.56,0
+Shreyas Iyer,Kieron Pollard,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,119.56,28.45,0
+Shreyas Iyer,Jasprit Bumrah,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,119.56,28.45,0
+Nitish Rana,Kieron Pollard,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,133.45,27.89,0
+Nitish Rana,Jasprit Bumrah,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,133.45,27.89,0
+Rinku Singh,Kieron Pollard,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,148.15,25.67,0
+Rinku Singh,Jasprit Bumrah,Kolkata Knight Riders,Mumbai Indians, Ahmedabad,148.15,25.67,0
+Kieron Pollard,Andre Russell,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Kieron Pollard,Sunil Narine,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Kieron Pollard,Varun Chakravarthy,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Kieron Pollard,Umesh Yadav,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Jasprit Bumrah,Andre Russell,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
+Jasprit Bumrah,Sunil Narine,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
+Jasprit Bumrah,Varun Chakravarthy,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
+Jasprit Bumrah,Umesh Yadav,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
+Kieron Pollard,Andre Russell,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Jasprit Bumrah,Andre Russell,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
+Kieron Pollard,Sunil Narine,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Jasprit Bumrah,Sunil Narine,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
+Kieron Pollard,Varun Chakravarthy,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Jasprit Bumrah,Varun Chakravarthy,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
+Kieron Pollard,Umesh Yadav,Mumbai Indians,Kolkata Knight Riders,,146.67,24.56,1
+Jasprit Bumrah,Umesh Yadav,Mumbai Indians,Kolkata Knight Riders,,64.29,5.33,1
